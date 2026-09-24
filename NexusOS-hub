@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" class="dark scroll-smooth">
 <head>
-    
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8486389498216983"
-     crossorigin="anonymous"></script>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>nexusOS - Advanced Multi-Modal AI Forensic Engine</title>
+    
+    <!-- Google AdSense Code -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8486389498216983" crossorigin="anonymous"></script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -325,7 +325,7 @@
         </div>
     </section>
 
-    <!-- EXPANDED DETECTOR DEEP-ANALYSIS SECTIONS (ROW LAYOUT - 5 PARAGRAPHS EACH) -->
+    <!-- EXPANDED DETECTOR DEEP-ANALYSIS SECTIONS -->
     <section id="deep-analysis" class="max-w-6xl mx-auto px-6 pb-24 relative z-10 space-y-12">
         <div class="text-center mb-16">
             <h2 class="text-3xl sm:text-5xl font-extrabold text-white mb-4">Forensic Capability Breakdown</h2>
@@ -426,7 +426,7 @@
         </div>
     </section>
 
-    <!-- SECTION: HOW nexusOS WORKS (5 PARAGRAPHS) -->
+    <!-- SECTION: HOW nexusOS WORKS -->
     <section id="architecture" class="max-w-6xl mx-auto px-6 pb-24 relative z-10">
         <div class="glass-card rounded-3xl p-8 sm:p-12 border border-slate-800/90">
             <div class="text-center max-w-3xl mx-auto mb-12">
@@ -454,7 +454,7 @@
         </div>
     </section>
 
-    <!-- SECTION: WHY IT IS IMPORTANT (5 PARAGRAPHS) -->
+    <!-- SECTION: WHY IT IS IMPORTANT -->
     <section id="importance" class="max-w-6xl mx-auto px-6 pb-24 relative z-10">
         <div class="glass-card rounded-3xl p-8 sm:p-12 border border-slate-800/90">
             <div class="text-center max-w-3xl mx-auto mb-12">
@@ -486,7 +486,7 @@
         </div>
     </section>
 
-    <!-- SECTION: HOW TO USE THIS WEBSITE (5 PARAGRAPHS) -->
+    <!-- SECTION: HOW TO USE THIS WEBSITE -->
     <section id="usage-guide" class="max-w-6xl mx-auto px-6 pb-24 relative z-10">
         <div class="glass-card rounded-3xl p-8 sm:p-12 border border-slate-800/90">
             <div class="text-center max-w-3xl mx-auto mb-12">
